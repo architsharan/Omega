@@ -99,7 +99,7 @@ int readSalary() {
 }
 ```
 
-*(Full code is in OmegaHandling.cpp)*
+*(Full code is in OmegaHandling.c)*
 
 ---
 
